@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950497782348",
+    "project_id": "studentportal-e77ab",
+    "storage_bucket": "studentportal-e77ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950497782348:android:dbe39edc0056587fc662e9",
+        "android_client_info": {
+          "package_name": "com.college.scc.student_campus_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLTwXQw9WMMTeiBCDr1zWE3OrmWE4knl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
